@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestTaskVK</string>
+    <string name="gifs_title">Гифки!</string>
+    <string name="search_hint">Поиск гифок</string>
+    <string name="search_button">Найти</string>
+    <string name="return_button_text">назад</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="back">назад</string>
+    <string name="next">вперед</string>
+</resources>
